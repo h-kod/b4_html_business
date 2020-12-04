@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="93" viewBox="0 0 165 93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ab46a4;
+      }
+
+      .cls-2 {
+        fill: #f5f5f5;
+        font-size: 20px;
+        font-family: HelveticaNeue-Bold, Helvetica Neue;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Group_10" data-name="Group 10" transform="translate(-874 -2713)">
+    <rect id="Rectangle_1648" data-name="Rectangle 1648" class="cls-1" width="165" height="93" transform="translate(874 2713)"/>
+    <text id="LOGO" class="cls-2" transform="translate(928 2763)"><tspan x="0" y="0">LOGO</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,223 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="406" viewBox="0 0 960 406">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #ab46a4;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: #82236f;
+      }
+
+      .cls-3, .cls-6 {
+        stroke: #c48cd4;
+      }
+
+      .cls-4 {
+        fill: #c48cd4;
+        font-size: 14px;
+        font-family: CentraleSans-Bold, Centrale Sans;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-6 {
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-11 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="2.5" height="103.5"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="2.5" height="16.5"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect class="cls-1" width="2.5" height="150.5"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect class="cls-1" width="2.5" height="217.5"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect class="cls-1" width="2.5" height="60.5"/>
+    </clipPath>
+  </defs>
+  <g id="shape" transform="translate(-411 -2451.063)">
+    <g id="Rectangle_56" data-name="Rectangle 56" class="cls-2" transform="translate(1289 2687.063)">
+      <rect class="cls-11" width="82" height="140" rx="3"/>
+      <rect class="cls-1" x="1.5" y="1.5" width="79" height="137" rx="1.5"/>
+    </g>
+    <g id="Rectangle_66" data-name="Rectangle 66" class="cls-2" transform="translate(739 2451.063)">
+      <rect class="cls-11" width="188" height="258" rx="3"/>
+      <rect class="cls-1" x="1.5" y="1.5" width="185" height="255" rx="1.5"/>
+    </g>
+    <g id="Rectangle_58" data-name="Rectangle 58" class="cls-2" transform="translate(1191 2569.063)">
+      <rect class="cls-11" width="180" height="84" rx="3"/>
+      <rect class="cls-1" x="1.5" y="1.5" width="177" height="81" rx="1.5"/>
+    </g>
+    <g id="Rectangle_67" data-name="Rectangle 67" class="cls-2" transform="translate(411 2743.063)">
+      <rect class="cls-11" width="212" height="84" rx="3"/>
+      <rect class="cls-1" x="1.5" y="1.5" width="209" height="81" rx="1.5"/>
+    </g>
+    <g id="Rectangle_71" data-name="Rectangle 71" class="cls-2" transform="translate(657 2743.063)">
+      <rect class="cls-11" width="270" height="84" rx="3"/>
+      <rect class="cls-1" x="1.5" y="1.5" width="267" height="81" rx="1.5"/>
+    </g>
+    <g id="Rectangle_53" data-name="Rectangle 53" class="cls-2" transform="translate(961 2451.063)">
+      <rect class="cls-11" width="410" height="84" rx="3"/>
+      <rect class="cls-1" x="1.5" y="1.5" width="407" height="81" rx="1.5"/>
+    </g>
+    <g id="Rectangle_64" data-name="Rectangle 64" class="cls-2" transform="translate(961 2569.063)">
+      <rect class="cls-11" width="196" height="84" rx="3"/>
+      <rect class="cls-1" x="1.5" y="1.5" width="193" height="81" rx="1.5"/>
+    </g>
+    <g id="Rectangle_70" data-name="Rectangle 70" class="cls-3" transform="translate(598 2451.063)">
+      <rect class="cls-11" width="107" height="108" rx="3"/>
+      <rect class="cls-1" x="1.5" y="1.5" width="104" height="105" rx="1.5"/>
+    </g>
+    <g id="Rectangle_72" data-name="Rectangle 72" class="cls-2" transform="translate(411 2451.063)">
+      <rect class="cls-11" width="153" height="108" rx="3"/>
+      <rect class="cls-1" x="1.5" y="1.5" width="150" height="105" rx="1.5"/>
+    </g>
+    <g id="Rectangle_65" data-name="Rectangle 65" class="cls-2" transform="translate(961 2687.063)">
+      <rect class="cls-11" width="294" height="140" rx="3"/>
+      <rect class="cls-1" x="1.5" y="1.5" width="291" height="137" rx="1.5"/>
+    </g>
+    <g id="Rectangle_68" data-name="Rectangle 68" class="cls-2" transform="translate(411 2593.063)">
+      <rect class="cls-11" width="294" height="116" rx="3"/>
+      <rect class="cls-1" x="1.5" y="1.5" width="291" height="113" rx="1.5"/>
+    </g>
+    <text id="_7" data-name="7" class="cls-4" transform="translate(1281 2616.063)"><tspan x="-3.626" y="0">7</tspan></text>
+    <text id="_3" data-name="3" class="cls-4" transform="translate(517 2790.063)"><tspan x="-3.864" y="0">3</tspan></text>
+    <text id="_4" data-name="4" class="cls-4" transform="translate(792 2790.063)"><tspan x="-4.109" y="0">4</tspan></text>
+    <text id="Entrance" class="cls-4" transform="translate(945 2853.063)"><tspan x="-29.267" y="0">Entrance</tspan></text>
+    <text id="_9" data-name="9" class="cls-4" transform="translate(1166 2498.063)"><tspan x="-4.305" y="0">9</tspan></text>
+    <text id="_8" data-name="8" class="cls-4" transform="translate(1059 2616.063)"><tspan x="-4.165" y="0">8</tspan></text>
+    <text id="_1" data-name="1" class="cls-4" transform="translate(488 2510.063)"><tspan x="-2.604" y="0">1</tspan></text>
+    <text id="_11_Here" data-name="11
+Here" class="cls-4" transform="translate(653 2510.063)"><tspan x="-5.208" y="0">11</tspan><tspan x="-15.582" y="18">Here</tspan></text>
+    <text id="_5" data-name="5" class="cls-4" transform="translate(1108 2762.063)"><tspan x="-3.983" y="0">5</tspan></text>
+    <text id="_2" data-name="2" class="cls-4" transform="translate(558 2656.063)"><tspan x="-3.955" y="0">2</tspan></text>
+    <text id="_6" data-name="6" class="cls-4" transform="translate(1330 2762.063)"><tspan x="-4.298" y="0">6</tspan></text>
+    <text id="_10" data-name="10" class="cls-4" transform="translate(833 2585.063)"><tspan x="-7.49" y="0">10</tspan></text>
+    <g id="Repeat_Grid_6" data-name="Repeat Grid 6" class="cls-5" transform="translate(943.25 2733.313)">
+      <g transform="translate(-943.25 -2717.313)">
+        <line id="Line_8" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2695.313)">
+        <line id="Line_8-2" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2673.313)">
+        <line id="Line_8-3" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2651.313)">
+        <line id="Line_8-4" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2629.313)">
+        <line id="Line_8-5" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+    </g>
+    <g id="Repeat_Grid_10" data-name="Repeat Grid 10" class="cls-7" transform="translate(656.25 2556.313)">
+      <g transform="translate(-943.25 -2717.313)">
+        <line id="Line_8-6" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+    </g>
+    <g id="Repeat_Grid_8" data-name="Repeat Grid 8" class="cls-8" transform="translate(721.25 2575.313)">
+      <g transform="translate(-943.25 -2717.313)">
+        <line id="Line_8-7" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2695.313)">
+        <line id="Line_8-8" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2673.313)">
+        <line id="Line_8-9" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2651.313)">
+        <line id="Line_8-10" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2629.313)">
+        <line id="Line_8-11" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2607.313)">
+        <line id="Line_8-12" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2585.313)">
+        <line id="Line_8-13" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+    </g>
+    <g id="Repeat_Grid_7" data-name="Repeat Grid 7" class="cls-9" transform="translate(938.75 2726.313) rotate(90)">
+      <g transform="translate(-943.25 -2717.313)">
+        <line id="Line_8-14" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2695.313)">
+        <line id="Line_8-15" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2673.313)">
+        <line id="Line_8-16" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2651.313)">
+        <line id="Line_8-17" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2629.313)">
+        <line id="Line_8-18" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2607.313)">
+        <line id="Line_8-19" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2585.313)">
+        <line id="Line_8-20" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2563.313)">
+        <line id="Line_8-21" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2541.313)">
+        <line id="Line_8-22" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2519.313)">
+        <line id="Line_8-23" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+    </g>
+    <g id="Repeat_Grid_9" data-name="Repeat Grid 9" class="cls-10" transform="translate(713.75 2576.313) rotate(90)">
+      <g transform="translate(-943.25 -2717.313)">
+        <line id="Line_8-24" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2695.313)">
+        <line id="Line_8-25" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+      <g transform="translate(-943.25 -2673.313)">
+        <line id="Line_8-26" data-name="Line 8" class="cls-6" y1="8" transform="translate(944.5 2720.563)"/>
+      </g>
+    </g>
+  </g>
+</svg>

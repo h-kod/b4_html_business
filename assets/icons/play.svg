@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="34" viewBox="0 0 36 34">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.8;
+      }
+
+      .cls-2 {
+        fill: #82236f;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="play" class="cls-1" transform="translate(-940 -63.158)">
+    <rect id="Rectangle_28" data-name="Rectangle 28" class="cls-2" width="36" height="34" rx="1" transform="translate(940 63.158)"/>
+    <path id="Polygon_1" data-name="Polygon 1" class="cls-3" d="M5.561.8a.5.5,0,0,1,.878,0L11.6,10.261a.5.5,0,0,1-.439.739H.842A.5.5,0,0,1,.4,10.261Z" transform="translate(965 74.158) rotate(90)"/>
+  </g>
+</svg>
