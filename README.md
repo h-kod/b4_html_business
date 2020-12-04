@@ -7,3 +7,5 @@ Business Casual is a full website template for Bootstrap 4. It features four dif
 A fresh, modern design style
 Four, pre-built HTML pages
 Store hours script that updates with current day
+
+![Screenshot](screenshot.png)
